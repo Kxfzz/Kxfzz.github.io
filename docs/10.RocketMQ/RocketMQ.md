@@ -1,0 +1,1 @@
+# [文档合集 (ydlclass.com)](https://www.ydlclass.com/doc21xnv/distribute/rocketmq/#rocketmq基础篇)
